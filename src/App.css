@@ -1,0 +1,58 @@
+.page {
+  min-height: 150vh; /* 👈 ensures full page coverage */
+  padding: 20px;
+  text-align: center;
+}
+
+/* Title */
+h1 {
+  margin-bottom: 20px;
+}
+
+/* Card style */
+.card {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px auto;
+  width: 60%;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+}
+
+/* Inputs */
+.input,
+.textarea {
+  width: 80%;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+}
+
+.textarea {
+  height: 100px;
+}
+
+/* Button */
+.btn {
+  padding: 10px 20px;
+  background: #00c6ff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+}
+
+.btn:hover {
+  background: #0072ff;
+}
+
+/* Output box */
+.output-box {
+  height: 100px;
+  background: white;
+  margin-top: 10px;
+  border-radius: 5px;
+}
