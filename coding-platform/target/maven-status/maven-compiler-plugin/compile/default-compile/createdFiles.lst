@@ -1,0 +1,16 @@
+com\example\codingplatform\CodingPlatformApplication.class
+com\example\codingplatform\service\CodeExecutionService.class
+com\example\codingplatform\controller\UserController.class
+com\example\codingplatform\repository\ProblemRepository.class
+com\example\codingplatform\controller\SubmissionController.class
+com\example\codingplatform\model\Problem.class
+com\example\codingplatform\service\SubmissionService.class
+com\example\codingplatform\model\Submission.class
+com\example\codingplatform\model\User.class
+com\example\codingplatform\repository\SubmissionRepository.class
+com\example\codingplatform\repository\TestCaseRepository.class
+com\example\codingplatform\model\TestCase.class
+com\example\codingplatform\service\UserService.class
+com\example\codingplatform\controller\ProblemController.class
+com\example\codingplatform\repository\UserRepository.class
+com\example\codingplatform\service\ProblemService.class
